@@ -14,7 +14,7 @@ Table of Content.
 
 ![image](https://user-images.githubusercontent.com/10958742/212388005-90ed9f8e-2169-4fc9-a5d2-5bfd19f491cc.png)
 
-[Click to Download pbix file](https://github.com/mukaruernest/Donations-Case-Study/blob/main/IRC%20Donation.pbix?raw=true)
+[Click to Download pbix file]https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/raw/main/PizzaPlaceSales.pbix)
 
 ## Dataset
 Click the Table Name to view the tables. 
