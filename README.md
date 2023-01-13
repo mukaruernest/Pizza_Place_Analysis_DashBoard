@@ -1,6 +1,8 @@
 # Pizza Place Analysis.
 
-A year's worth of sales from a fictitious pizza place.
+A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+
+This challenge can be found on [Maven Analytics.](https://www.mavenanalytics.io/data-playground?page=1&pageSize=5)
 
 Table of Content. 
 
