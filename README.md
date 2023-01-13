@@ -1,4 +1,4 @@
-# Pizza Place_Analysis DashBoard
+# Pizza Place Analysis DashBoard
 
 A year's worth of sales from a fictitious pizza place.
 
