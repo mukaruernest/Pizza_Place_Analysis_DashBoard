@@ -4,10 +4,10 @@ A year's worth of sales from a fictitious pizza place.
 
 Table of Content. 
 
-- [Dashboard View](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#dashboard-view)
-- [Dataset](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#dataset)
-- [Questions](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#questions)
-- [Solutions](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#solution)
+- [Dashboard View](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard#dashboard-view)
+- [Dataset](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard#dataset)
+- [Questions](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard#questions)
+- [Solutions](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard#solution)
 
 
 ## Dashboard View
