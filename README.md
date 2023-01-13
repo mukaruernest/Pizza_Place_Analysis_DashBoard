@@ -4,10 +4,10 @@ A year's worth of sales from a fictitious pizza place.
 
 Table of Content. 
 
-- [Dashboard View](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dataset)
-- [Dataset](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#relationships)
-- [Questions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#questions)
-- [Solutions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#solution)
+- [Dashboard View](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#dashboard-view)
+- [Dataset](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#dataset)
+- [Questions](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#questions)
+- [Solutions](https://github.com/mukaruernest/Pizza_Place_Analysis_DashBoard/edit/main/README.md#solution)
 
 
 ## Dashboard View
@@ -124,9 +124,9 @@ Click the Table Name to view the tables.
 
 Q1) Are there any peak hours?
 
-There is a spike of orders from around mid day (12noon to 1pm and also in the evening)
+*There is a spike of orders from around mid day (12noon to 1pm and also in the evening)*
 
-Visual: `Line Graph`
+*Visual: `Line Graph`*
 
 
 ![image](https://user-images.githubusercontent.com/10958742/212387421-eddaa240-92d9-412f-831a-7f8b6aa503f5.png)
@@ -134,31 +134,31 @@ Visual: `Line Graph`
 
 Q2) How many pizzas are typically in an order? 
 
-There is average of One pizza per order. This is calculated by getting the sun of all pizza ordered / Number of orders.
+*There is average of One pizza per order. This is calculated by getting the sun of all pizza ordered / Number of orders.*
 
-calculation with DAX: 
+*calculation with DAX:* 
 ```SQL
 averageNumberPizzas = COUNT(order_details[pizza_id])/COUNT(order_details[order_id])
 ```
 
-Visual: `Card`
+*Visual: `Card`
 
 ![image](https://user-images.githubusercontent.com/10958742/212387215-8aff2d2f-484c-4786-bf80-679245d576ed.png)
 
 Q3) Do we have any bestsellers?
 
-The best selling pizza is The Classic Deluxe Pizza.
+*The best selling pizza is The Classic Deluxe Pizza.*
 
-visual: `Table`
+*visual: `Table`*
 
 ![image](https://user-images.githubusercontent.com/10958742/212389595-f6fc1f3e-ad9b-4f2c-a8d8-5174f737fc5b.png)
 
 
 Q4) How much money did we make this year? Can we indentify any seasonality in the sales?
 
-The higher the number of orders the high the revenue
+*The higher the number of orders the high the revenue*
 
-Visual: `Staked Column Chart` 
+*Visual: `Staked Column Chart`* 
 
 ![image](https://user-images.githubusercontent.com/10958742/212387052-227a4759-16cb-4305-9b5e-17f826775e8f.png)
 
@@ -168,9 +168,9 @@ Visual: `Staked Column Chart`
 
 Q5) Are there any pizzas we should take of the menu, or any promotions we could leverage?
 
-I would suggest taking off Pizzas with less that 500 orders through the year.
+*I would suggest taking off Pizzas with less that 500 orders through the year.*
 
-For the ones the shop received less than 1000 orders, there should be a promotion strategy.
+*For the ones the shop received less than 1000 orders, there should be a promotion strategy.*
 
 
 
